@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="wbd-java-session-cookie-cart-app:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/wbd_java_session_cookie_cart_app_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="wbd-java-session-cookie-cart-app/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="wbd-java-session-cookie-cart-app" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
